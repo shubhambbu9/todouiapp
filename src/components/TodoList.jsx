@@ -118,8 +118,8 @@ const TodoList = () => {
           </div>
           <button className='clear-items' onClick={clearAll}>Delete All</button>
         </div>
-<p> 'Made with ❤ by shubham' </p>
       </div>
+       <p> 'Made with ❤ by shubham' </p>
     </>
   )
 }
