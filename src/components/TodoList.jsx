@@ -85,7 +85,7 @@ const TodoList = () => {
       <div className="main_div">
         <div className="center_div">
           <i className="fa-sharp fa-solid fa-clipboard-list"></i>
-          <figcaption className='fig-caption'>Add your list here ✌</figcaption>
+          <figcaption className='fig-caption'>Add your TODO list here ✌</figcaption>
           <div className="input-div">
             <input
               type="text"
