@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todouiapp/static/css/main.d874d8c2.css",
+    "main.js": "/todouiapp/static/js/main.bdb01a93.js",
+    "index.html": "/todouiapp/index.html",
+    "main.d874d8c2.css.map": "/todouiapp/static/css/main.d874d8c2.css.map",
+    "main.bdb01a93.js.map": "/todouiapp/static/js/main.bdb01a93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d874d8c2.css",
+    "static/js/main.bdb01a93.js"
+  ]
+}
